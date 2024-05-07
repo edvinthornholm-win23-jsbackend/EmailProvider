@@ -13,5 +13,6 @@ var host = new HostBuilder()
     })
 
     .Build();
+// Run the host
 
 host.Run();
